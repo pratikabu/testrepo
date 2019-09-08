@@ -1,2 +1,3 @@
 hi from master
 my new line
+my new line 2
