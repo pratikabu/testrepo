@@ -1,6 +1,6 @@
 var STT_PREF_KEY = "STT_PREF_KEY";
 var STT_PREF_LOCAL_KEY = "STT_PREF_LOCAL_KEY";
-var BROWSER_KEY = "chrome";
+var BROWSER_KEY = "firefox";
 var LOCAL_SETTINGS_LIST = "userIcon,dUserIcon,supportPrompt";
 
 chrome.runtime.onMessage.addListener(function(request, sender, sendResponseFunction) {

@@ -10,7 +10,7 @@
 		"128": "icons/pratikabu-stt-128.png"
 	},
 
-	"author": "Pratik Soni",
+	"author": "Pratik Soni", "applications": {"gecko": {"id": "jid0-gRmSxW9ByuHwGjLhtXJg27YnZRs@jetpack"}},
 	"background": {
 		"scripts": [ "background.js", "toolbar-cx-menu.js" ],
 		"persistent": false
