@@ -1,4 +1,4 @@
-Scroll To Top
+<img valign="middle" src="res/pratikabu-stt-256.png" width="64px"> Scroll To Top
 =============
 
 It is a browser add-on available for Firefox, Chrome, Safari and Opera.
