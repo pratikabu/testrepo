@@ -4,3 +4,5 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: scrolltotp
 github_username:  pratikabu
 google_analytics: UA-10242165-
+plugins:
+  - jekyll-seo-tag
