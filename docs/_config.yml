@@ -1,7 +1,5 @@
-page.title: Scroll To Topp
 title: Scroll To Top
-description: >- # this means to ignore newlines until "baseurl:"
-  Scroll To Top/Bottom in a window
+description: Scroll To Top/Bottom in a window
 twitter_username: scrolltotp
 github_username:  pratikabu
 google_analytics: UA-10242165-
