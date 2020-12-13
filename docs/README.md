@@ -1,4 +1,4 @@
-# <img valign="middle" src="res/pratikabu-stt-256.png" width="36px"> Scroll To Top #
+# <img valign="middle" src="res/pratikabu-stt-256.png" width="36px"> Scroll To Top
 
 Scroll to top and vice versa in a desktop browser.
 
