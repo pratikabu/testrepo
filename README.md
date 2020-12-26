@@ -1,4 +1,4 @@
-# <img valign="middle" style="vertical-align: middle;" src="res/pratikabu-stt-256.png" width="36px"> TestRepo
+# <img valign="middle" style="vertical-align: middle;" src="res/pratikabu-stt-256.png" width="36px"> testrepo
 
 Test Repo and vice versa in a desktop browser. A browser extension for Chrome, Firefox, Safari, Opera.
 
