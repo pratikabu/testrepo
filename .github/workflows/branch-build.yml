@@ -4,7 +4,7 @@ on:
   pull_request:
 
 jobs:
-  pr-check:
+  branch-check:
 
     runs-on: ubuntu-latest
 
