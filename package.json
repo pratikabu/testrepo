@@ -1,0 +1,19 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "A sample project using jQuery",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "example"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.0"
+  }
+}
